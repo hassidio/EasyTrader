@@ -1,0 +1,36 @@
+{
+  "IsLoggingEnabled": true,
+  "IsDebugEnabled": true,
+  "LogFilePath": "..\\..\\..\\",
+  "LogFileName": "Easy Trader Log FIXTURE.txt",
+  "ExchangeConfigurations": [
+    {
+      "ExchangeName": "Binance",
+      "DataDirectoryPath": "..\\..\\..\\..\\EasyTrader.Tests\\FixtureData",
+      "LastUpdated": "0001-01-01T00:00:00",
+      "ApiConfiguration": {
+        "ApiBaseUri": "https://api.binance.com/api/v3",
+        "ApiExchangeInfoUri": "/exchangeInfo",
+        "ApiMarketCandlesUri": "/klines",
+        "CallsPerSecondPolicy": 80,
+        "WeightCooldownSecondsPolicy": 60,
+        "MaximumTotalWeight": 6000,
+        "ResponseHeaderWeightKeyName": "x-mbx-used-weight"
+      }
+    },
+    {
+      "ExchangeName": "Mock Exchange Name",
+      "DataDirectoryPath": "..\\..\\..\\TestData",
+      "LastUpdated": "0001-01-01T00:00:00",
+      "ApiConfiguration": {
+        "ApiBaseUri": "https://api.mock",
+        "ApiExchangeInfoUri": "/exchangeInfo",
+        "ApiMarketCandlesUri": "/candels",
+        "CallsPerSecondPolicy": 80,
+        "WeightCooldownSecondsPolicy": 10,
+        "MaximumTotalWeight": 1000,
+        "ResponseHeaderWeightKeyName": ""
+      }
+    }
+  ]
+}

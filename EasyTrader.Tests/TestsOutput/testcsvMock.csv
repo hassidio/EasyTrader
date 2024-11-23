@@ -1,0 +1,26 @@
+SaveToCsvMock,Properties,DogName,Age,DateOfBirth,DogTagObj,DogType,CatOfAnimal_Property,Cat_Property,MyEnumTest,StringArray_Test,ObjectArray_Test,ClassArray_Test,ClassList_Test,ClassCollection_Test
+SaveToCsvMock,Values,Trevor,8,10/09/2024 10:32:05 am,[Animal],[Animal],[CatOfAnimal],[Cat],Enum1,String[][],Object[][],Animal[][],List`1[],HashSet`1[],
+SaveToCsvMock.DogTagObj,Properties,Legs,Color
+SaveToCsvMock.DogTagObj,Values,8,Spider,
+SaveToCsvMock.DogType,Properties,Legs,Color
+SaveToCsvMock.DogType,Values,4,White,
+SaveToCsvMock.CatOfAnimal_Property,Properties,CatName,Legs,Color
+SaveToCsvMock.CatOfAnimal_Property,Values,Sushi,4,Grey,
+SaveToCsvMock.Cat_Property,Properties,CatOfAnimal_Property
+SaveToCsvMock.Cat_Property,Values,[CatOfAnimal],
+Cat.CatOfAnimal_Property,Properties,CatName,Legs,Color
+Cat.CatOfAnimal_Property,Values,Mizti,44,Grey44,
+SaveToCsvMock.StringArray_Test,Values[0],Dog1 Array,
+SaveToCsvMock.StringArray_Test,Values[1],Dog Array2 test,
+SaveToCsvMock.ObjectArray_Test,Properties,Legs,Color
+SaveToCsvMock.ObjectArray_Test,Values[0],2,Brown,
+SaveToCsvMock.ObjectArray_Test,Values[1],3,Green,
+SaveToCsvMock.ClassArray_Test,Properties,Legs,Color
+SaveToCsvMock.ClassArray_Test,Values[0],10,Black,
+SaveToCsvMock.ClassArray_Test,Values[1],9,Yellow,
+SaveToCsvMock.ClassList_Test,Properties,Legs,Color
+SaveToCsvMock.ClassList_Test,Values[0],13,aaa,
+SaveToCsvMock.ClassList_Test,Values[1],14,bbb,
+SaveToCsvMock.ClassCollection_Test,Properties,Legs,Color
+SaveToCsvMock.ClassCollection_Test,Values[0],20,Magenta,
+SaveToCsvMock.ClassCollection_Test,Values[1],21,Cyan,

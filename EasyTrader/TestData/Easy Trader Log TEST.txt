@@ -1,0 +1,114 @@
+
+[30/10/2024 3:02:35 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:02:35 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[30/10/2024 3:23:44 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:23:44 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[30/10/2024 3:33:41 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:33:41 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[30/10/2024 3:34:12 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:34:12 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[30/10/2024 3:34:14 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:34:14 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[30/10/2024 3:34:15 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:34:15 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[30/10/2024 3:34:17 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:34:17 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[30/10/2024 3:34:33 pm]   Error:     
+Could not read file: '..\..\..\EasyTrader.Tests\TestData\TestAppConfig.json'.
+Inner Exception: Could not find a part of the path 'C:\Users\hassi\source\repos\EasyTrader\EasyTrader\EasyTrader.Tests\TestData\TestAppConfig.json'.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.File.ReadAllText(String path, Encoding encoding)
+   at EasyTrader.Core.Common.FileManager.ReadFile(String filePath) in C:\Users\hassi\source\repos\EasyTrader\EasyTrader.Core\Common\FileManager.cs:line 39
+
+
+[30/10/2024 3:35:36 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:35:36 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[30/10/2024 3:35:39 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:35:42 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[30/10/2024 3:35:42 pm]   Debug:     Save _exchange file: Mock Exchange Name
+[30/10/2024 3:35:44 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:35:46 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[30/10/2024 3:35:46 pm]   Debug:     Save _exchange file: Mock Exchange Name
+[30/10/2024 3:35:49 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:35:49 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[30/10/2024 3:35:51 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:35:53 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[30/10/2024 3:35:53 pm]   Debug:     Save _exchange file: Mock Exchange Name
+[30/10/2024 3:36:07 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:36:09 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[30/10/2024 3:36:09 pm]   Debug:     Save _exchange file: Mock Exchange Name
+[30/10/2024 3:36:13 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[30/10/2024 3:36:15 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[30/10/2024 3:36:15 pm]   Debug:     Save _exchange file: Mock Exchange Name
+[31/10/2024 8:22:41 am]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 8:22:43 am]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[31/10/2024 8:22:43 am]   Debug:     Save _exchange file: Mock Exchange Name
+[31/10/2024 8:23:37 am]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 8:23:38 am]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 8:23:39 am]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[31/10/2024 8:23:39 am]   Debug:     Save _exchange file: Mock Exchange Name
+[31/10/2024 8:23:40 am]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[31/10/2024 8:23:40 am]   Debug:     Save _exchange file: Mock Exchange Name
+[31/10/2024 8:23:42 am]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 8:23:45 am]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[31/10/2024 8:23:45 am]   Debug:     Save _exchange file: Mock Exchange Name
+[31/10/2024 8:23:45 am]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 8:23:47 am]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[31/10/2024 8:23:47 am]   Debug:     Save _exchange file: Mock Exchange Name
+[31/10/2024 8:23:48 am]   Debug:     Call ApiController for: EasyTrader.Core.Models.Binance.BinanceApi_ExchangeInfo
+[31/10/2024 8:23:48 am]   Debug:     Request Url: https://api.binance.com/api/v3/exchangeInfo
+[31/10/2024 8:23:49 am]   Debug:     Response IsSuccessStatusCode!
+[31/10/2024 2:51:17 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 2:51:19 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[31/10/2024 2:51:19 pm]   Debug:     Save _exchange file: Mock Exchange Name
+[31/10/2024 2:51:21 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 2:51:23 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[31/10/2024 2:51:23 pm]   Debug:     Save _exchange file: Mock Exchange Name
+[31/10/2024 2:51:26 pm]   Debug:     Call ApiController for: EasyTrader.Core.Models.Binance.BinanceApi_ExchangeInfo
+[31/10/2024 2:51:26 pm]   Debug:     Request Url: https://api.binance.com/api/v3/exchangeInfo
+[31/10/2024 2:51:27 pm]   Debug:     Response IsSuccessStatusCode!
+[31/10/2024 2:51:27 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Core.Models.Binance.BinanceExchange
+[31/10/2024 2:51:27 pm]   Debug:     Save _exchange file: Binance
+[31/10/2024 2:51:39 pm]   Debug:     Call ApiController for: EasyTrader.Core.Models.Binance.BinanceApi_ExchangeInfo
+[31/10/2024 2:51:39 pm]   Debug:     Request Url: https://api.binance.com/api/v3/exchangeInfo
+[31/10/2024 2:51:40 pm]   Debug:     Response IsSuccessStatusCode!
+[31/10/2024 2:51:41 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Core.Models.Binance.BinanceExchange
+[31/10/2024 2:51:41 pm]   Debug:     Save _exchange file: Binance
+[31/10/2024 3:20:17 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 3:20:17 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[31/10/2024 3:21:41 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 3:21:41 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[31/10/2024 3:28:00 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 3:28:03 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[31/10/2024 3:28:03 pm]   Debug:     Save _exchange file: Mock Exchange Name
+[31/10/2024 3:28:08 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 3:28:10 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Tests.Models.MockExchange
+[31/10/2024 3:28:10 pm]   Debug:     Save _exchange file: Mock Exchange Name
+[31/10/2024 3:35:31 pm]   Debug:     Call ApiController for: EasyTrader.Tests.Models.MockClientApi.MockExchangeClientInfo
+[31/10/2024 3:35:31 pm]   Error:     Unsuccessful response with no content.(code: 0)
+
+[31/10/2024 3:35:35 pm]   Debug:     Call ApiController for: EasyTrader.Core.Models.Binance.BinanceApi_ExchangeInfo
+[31/10/2024 3:35:35 pm]   Debug:     Request Url: https://api.binance.com/api/v3/exchangeInfo
+[31/10/2024 3:35:36 pm]   Debug:     Response IsSuccessStatusCode!
+[31/10/2024 3:35:37 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Core.Models.Binance.BinanceExchange
+[31/10/2024 3:35:37 pm]   Debug:     Save _exchange file: Binance
+[31/10/2024 3:35:44 pm]   Debug:     Call ApiController for: EasyTrader.Core.Models.Binance.BinanceApi_ExchangeInfo
+[31/10/2024 3:35:44 pm]   Debug:     Request Url: https://api.binance.com/api/v3/exchangeInfo
+[31/10/2024 3:35:45 pm]   Debug:     Response IsSuccessStatusCode!
+[31/10/2024 3:35:46 pm]   Debug:     Set _exchange info from ApiController response: EasyTrader.Core.Models.Binance.BinanceExchange
+[31/10/2024 3:35:46 pm]   Debug:     Save _exchange file: Binance

@@ -1,0 +1,1 @@
+{"IsMockApiRequest":true,"EntityId":null,"EntityParentId":null,"EntityStamp":"0_0","IsRawClientDataTypeIEnumerable":true,"RawClientData":"[\"0\"]","ApiRequestClientHeaders":{"Header1":"Header Test","Header2":"apiKey"},"ApiRequestClientQuery":{"symbol":"UnitTestBase Market1","interval":"10m"}}

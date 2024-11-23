@@ -1,0 +1,6 @@
+
+[19/10/2024 5:37:31 pm]   Debug:     Read defualt exchange file: Binance_Exchange.json
+[19/10/2024 5:49:15 pm]   Debug:     Read defualt exchange file: Binance_Exchange.json
+[19/10/2024 8:34:45 pm]   Debug:     Read defualt _exchange file: Binance_Exchange.json
+[19/10/2024 8:50:16 pm]   Debug:     Read defualt _exchange file: Binance_Exchange.json
+[19/10/2024 9:46:54 pm]   Debug:     Read defualt _exchange file: Binance_Exchange.json

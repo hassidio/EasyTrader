@@ -1,0 +1,7 @@
+
+[24/11/2024 10:47:46 am]   Debug:     Start Test: Fixture_UpdateExchangeInfo
+[24/11/2024 10:47:46 am]   Debug:     Call ApiController for: EasyTrader.Core.Models.Binance.BinanceApi_ExchangeInfo
+[24/11/2024 10:47:46 am]   Debug:     Request Url: https://api.binance.com/api/v3/exchangeInfo
+[24/11/2024 10:47:48 am]   Debug:     Response IsSuccessStatusCode!
+[24/11/2024 10:47:48 am]   Debug:     Set _exchange info from ApiController response: EasyTrader.Core.Models.Binance.BinanceExchange
+[24/11/2024 10:47:48 am]   Debug:     Save _exchange file: Binance

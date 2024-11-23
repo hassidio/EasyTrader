@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EasyTrader.Tests.UnitTests.Process.ProcessTestBase">
+    <Position X="5" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>UnitTests\Process\ProcessTestBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Tests.UnitTests.Process.ProcessTests">
+    <Position X="9.25" Y="3.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAABAAAAAAAAAABAAAAABAAAEABAIACAAAAA=</HashCode>
+      <FileName>UnitTests\Process\ProcessTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Tests.UnitTests.Trader.TraderTestBase">
+    <Position X="5.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnitTests\Trader\TraderTestBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Tests.UnitTests.UnitTestBase">
+    <Position X="1.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAABECAABYACAAIhEQEAAAABAYBAADAIAcBEAAAEA=</HashCode>
+      <FileName>UnitTests\UnitTestBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Tests.UnitTests.Trader.TraderTests">
+    <Position X="9.25" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAE=</HashCode>
+      <FileName>UnitTests\Trader\TraderTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

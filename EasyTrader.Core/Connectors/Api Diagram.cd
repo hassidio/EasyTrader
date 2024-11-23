@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EasyTrader.Core.Models.Market">
+    <Position X="13.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAEEAMIAAhQAAAAgAIQAAAAAQA=</HashCode>
+      <FileName>Models\Market.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasyTrader.Core.Models.Binance.BinanceMarket">
+    <Position X="16" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAAAAAAAwAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Models\Binance\BinanceMarket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Core.Connectors.Api&lt;TApi&gt;">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAQAABEAAAAEAAAAAAAAAAAAACAAAACA=</HashCode>
+      <FileName>Conectors\Api.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasyTrader.Core.Connectors.ApiHttpRequest">
+    <Position X="4.25" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAggAAIgAAIBAAAAAiAAAAIggQAAAAAAAAAA=</HashCode>
+      <FileName>Conectors\ApiHttpRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Core.Connectors.HttpApi">
+    <Position X="4.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Conectors\HttpApi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasyTrader.Core.Connectors.RestApi">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Conectors\RestApi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Core.Common.Throttle">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAQAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Common\Throttle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EasyTrader.Core.Connectors.IApi">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAABEAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Conectors\IApi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EasyTrader.Core.Models.IMarket" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAEAAIAAAgQAAAAAAIQAAAAAQA=</HashCode>
+      <FileName>Models\IMarket.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EasyTrader.Core.Connectors.IApiCaller">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Conectors\IApiCaller.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EasyTrader.Core.Connectors.IApiRequester">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAwAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Conectors\IApiRequester.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EasyTrader.Core.Models.IExchange" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAACAAAAACAAAAAQAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Models\IExchange.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EasyTrader.Core.Connectors.IHttpApi">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Conectors\IHttpApi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

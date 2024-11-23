@@ -1,0 +1,22 @@
+{
+  "IsLoggingEnabled": true,
+  "IsDebugEnabled": true,
+  "LogFilePath": "..\\..\\..\\TestData",
+  "LogFileName": "Easy Trader Log TEST.txt",
+  "ExchangeConfigurations": [
+    {
+      "ExchangeName": "Mock Exchange Name",
+      "DataDirectoryPath": "..\\..\\..\\TestData",
+      "LastUpdated": "0001-01-01T00:00:00",
+      "ApiConfiguration": {
+        "ApiBaseUri": "https://api.mock",
+        "ApiExchangeInfoUri": "/exchangeInfo",
+        "ApiMarketCandlesUri": "/candels",
+        "CallsPerSecondPolicy": 80,
+        "WeightCooldownSecondsPolicy": 10,
+        "MaximumTotalWeight": 1000,
+        "ResponseHeaderWeightKeyName": ""
+      }
+    }
+  ]
+}

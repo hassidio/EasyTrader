@@ -1,0 +1,68 @@
+{
+  "Connection": [
+    "keep-alive"
+  ],
+  "Date": [
+    "Mon, 30 Sep 2024 00:43:08 GMT"
+  ],
+  "Access-Control-Allow-Methods": [
+    "GET, HEAD, OPTIONS"
+  ],
+  "Server": [
+    "nginx"
+  ],
+  "Vary": [
+    "Accept-Encoding"
+  ],
+  "x-mbx-uuid": [
+    "aa506d1d-8a7d-47ea-bb16-a3d5dbbefb78"
+  ],
+  "x-mbx-used-weight": [
+    "20"
+  ],
+  "x-mbx-used-weight-1m": [
+    "20"
+  ],
+  "Strict-Transport-Security": [
+    "max-age=31536000; includeSubdomains"
+  ],
+  "X-Frame-Options": [
+    "SAMEORIGIN"
+  ],
+  "X-XSS-Protection": [
+    "1; mode=block"
+  ],
+  "X-Content-Type-Options": [
+    "nosniff"
+  ],
+  "Content-Security-Policy": [
+    "default-src 'self'"
+  ],
+  "X-Content-Security-Policy": [
+    "default-src 'self'"
+  ],
+  "X-WebKit-CSP": [
+    "default-src 'self'"
+  ],
+  "Cache-Control": [
+    "no-store, must-revalidate, no-cache"
+  ],
+  "Pragma": [
+    "no-cache"
+  ],
+  "Access-Control-Allow-Origin": [
+    "*"
+  ],
+  "X-Cache": [
+    "Miss from cloudfront"
+  ],
+  "Via": [
+    "1.1 89e1923294d79f0947d0fc3e20d47066.cloudfront.net (CloudFront)"
+  ],
+  "X-Amz-Cf-Pop": [
+    "AKL50-C1"
+  ],
+  "X-Amz-Cf-Id": [
+    "z92xr9YfoZIlcEgxtjjlg3LEl4W2W7TI99EKJ5ptZwdtya6MLRUR8w=="
+  ]
+}

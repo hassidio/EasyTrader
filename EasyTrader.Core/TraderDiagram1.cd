@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EasyTrader.Core.Processes.ProcessBase&lt;TApi&gt;">
+    <Position X="13.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAAAgCAAAAAAAA=</HashCode>
+      <FileName>Processes\ProcessBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Core.Processes.TraderProcess&lt;TExchange, TClientExchange, TMarket, TClientMarket, TApi&gt;">
+    <Position X="10.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAgAAAAAAAAQAAEAA=</HashCode>
+      <FileName>Processes\TraderProcess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Core.Processes.TraderTasks&lt;TExchange, TClientExchange, TMarket, TClientMarket, TApi&gt;">
+    <Position X="7" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Processes\TraderTasks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Core.Trader&lt;TExchange, TClientExchange, TMarket, TClientMarket, TApi&gt;">
+    <Position X="3.5" Y="3.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAIAEAAAAA=</HashCode>
+      <FileName>Trader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Core.TraderView&lt;TExchange, TClientExchange, TMarket, TClientMarket, TApi&gt;">
+    <Position X="0.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>TraderView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Core.TraderGlobals">
+    <Position X="0.5" Y="0.5" Width="15.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAABAAAAAAAAAQAAAIAAQAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>TraderGlobals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

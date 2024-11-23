@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EasyTrader.Core.Views.OutputView.ClientOutput">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\OutputView\ClientOutput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasyTrader.Core.Views.OutputView.OutputWindowView.OutputWindow">
+    <Position X="3" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAHAAAAAAABAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\OutputView\OutputWindowView\OutputWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Core.Views.OutputView.OutputWindowView.OutputWindowItem">
+    <Position X="5.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAAAAA=</HashCode>
+      <FileName>Views\OutputView\OutputWindowView\OutputWindowItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyTrader.Core.Views.OutputView.ApiThrottleWindowView.ApiThrottleWindow">
+    <Position X="3" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAABAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\OutputView\ApiThrottleWindowView\ApiThrottleWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EasyTrader.Core.Views.OutputView.IClientOutput">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\OutputView\IClientOutput.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EasyTrader.Core.Views.OutputView.OutputWindowView.IClientOutputWindow">
+    <Position X="0.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\OutputView\OutputWindowView\IClientOutputWindow.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EasyTrader.Core.Views.OutputView.ApiThrottleWindowView.IClientApiThrottleWindow">
+    <Position X="0.5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\OutputView\ApiThrottleWindowView\IClientApiThrottleWindow.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="EasyTrader.Core.Views.OutputView.OutputWindowView.OutputItemStatusEnum">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAgAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Views\OutputView\OutputWindowView\OutputWindowItem.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

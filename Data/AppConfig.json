@@ -1,0 +1,22 @@
+{
+  "IsLoggingEnabled": true,
+  "IsDebugEnabled": true,
+  "LogFilePath": "..\\..\\..\\..\\Data",
+  "DataDirectoryPath": "C:\\Users\\hassi\\source\\repos\\EasyTrader\\Data",
+  "LogFileName": "Easy Trader Log.txt",
+  "ExchangeConfigurationsList": [
+    {
+      "ExchangeName": "Binance",
+      "ExchangeFormatFileName": "_Exchange.json",
+      "ExchangeArchiveFormatFileName": "_Exchange_{0}.json",
+      "MarketFormatFileName": "_Market_{0}.json",
+      "ApiBaseUri": "https://api.binance.com/api/v3",
+      "ApiExchangeInfoUri": "/exchangeInfo",
+      "ApiMarketCandlesUri": "/klines",
+      "CallsPerSecondPolicy": 80,
+      "WeightCooldownSecondsPolicy": 600,
+      "MaximumWeight": 1000,
+      "ResponseHeaderWeightKeyName": "x-mbx-used-weight"
+    }
+  ]
+}
